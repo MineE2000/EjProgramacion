@@ -1,4 +1,4 @@
-//Nombre: Escobedo Vargas Minerva Sarahi
+//Nombre: Escobedo Vargas Minerva Sarahi.
 //No.Control: 24041172
 
  #include <stdio.h>
